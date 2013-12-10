@@ -1,7 +1,9 @@
 # Build and Release Folders
 bin/
-bin-debug/
 bin-release/
+
+#bin-debug/
+#bin-debug is necessary because it contains the assets loaded at runtime
 
 # Other files and folders
 .settings/

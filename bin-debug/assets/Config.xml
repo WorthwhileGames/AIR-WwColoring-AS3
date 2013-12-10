@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<app img_bg=''>
+
+<scene id='Logos' type='title' class_name='org.wwlib.starling.WwLogosScene' x='0' y='0' img_bg='' parent = '' >
+
+</scene>
+
+
+<scene id='Main' type='' class_name='org.wwlib.starling.WwMainMenuScene' x='0' y='0' img_bg='' parent = '' >
+
+</scene>
+
+
+<scene id='Coloring' type='' class_name='org.wwlib.starling.WwColoringScene' x='0' y='0' img_bg='' parent = 'Main' >
+	
+	<xtra clrPg='assets/coloring_pages/qc_cyril_960.png' clrPg_bg='' defaultBrush='assets/brushes/brush_crayon.png' defaultColor='rainbow' />
+
+</scene>
+
+</app>
