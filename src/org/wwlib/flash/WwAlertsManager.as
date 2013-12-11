@@ -88,7 +88,6 @@ package org.wwlib.flash
 				__instance.__controls_Cancel = __instance.__ui["btn_Cancel"];
 			
 				__instance.__ui.addEventListener(MouseEvent.MOUSE_DOWN, __instance.onMouseDown);
-				//__instance.activateUIControls();
 				__instance.setupUIStates();
 				//ANE REQUIRED WwGoViral.instance.onFacebookEventCallback = __instance.onFacebookEvent;
 
