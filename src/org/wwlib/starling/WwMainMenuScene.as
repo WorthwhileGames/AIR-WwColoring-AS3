@@ -227,7 +227,7 @@ package org.wwlib.starling
 				case "EOL": //End Of Label
 					break;
 				case "EOS": //End Of Scene
-					WwAudioManager.playSound("mainMenu");
+					//WwAudioManager.playSound("mainMenu");
 					break;
 				default:
 					break;
